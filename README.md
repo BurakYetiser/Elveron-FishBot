@@ -1,7 +1,7 @@
 # Elveron-FishBot
 # 🎣 FishBot
 
-FishBotV1, Metin2 Private sunucusu için OpenCV ve PyQt6 kullanılarak geliştirilmiş gerçek zamanlı bir otomatik balık yakalama botudur.
+FishBotV1, Elveron adlı Metin2 Private sunucusu için OpenCV ve PyQt6 kullanılarak geliştirilmiş gerçek zamanlı bir otomatik balık yakalama botudur.
 Ekrandaki oyun penceresini analiz ederek balık ve hedef bölgeyi tespit eder ve otomatik olarak input (SPACE) gönderir.
 
 ---
