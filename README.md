@@ -40,7 +40,7 @@ FishBotV1/
 
 Python 3.10+ önerilir
 
-### 2. Bağımlılıkları kur
+### 2. Gerekli kütüphaneler
 
 ```bash
 pip install opencv-python numpy pyqt6 mss pygetwindow pywin32
